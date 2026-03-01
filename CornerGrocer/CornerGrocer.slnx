@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CornerGrocer/CornerGrocer.vcxproj" Id="588ae728-6c92-46b1-9ecc-c2289fef538d" />
+</Solution>
